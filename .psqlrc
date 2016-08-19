@@ -1,0 +1,6 @@
+-- Refer to the psql man page for these settings.
+
+\set COMP_KEYWORD_CASE preserve-lower
+\set ON_ERROR_ROLLBACK interactive
+\timing on
+\pset null 'NULL'
